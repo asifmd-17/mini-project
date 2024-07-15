@@ -1,1 +1,1 @@
-# mini-project
+# minior-project
